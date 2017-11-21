@@ -9,7 +9,7 @@ use Plenty\Plugin\Templates\Twig;
  * Class FacebookPixelServiceProvider
  * @package FacebookPixel\Providers
  */
-class FacebookPixelServiceProvider extends ServiceProvider
+class accengageServiceProvider extends ServiceProvider
 {
     /**
      * Register the core functions
