@@ -16,12 +16,12 @@
   "phone"             : "+49 561 98 681 100",
   "keywords"          : ["plentymarkets", "plugins", "layout", "template", "facebook", "pixel", "tracking"],
   "require"           : ["IO"],
-  "serviceProvider"   : "FacebookPixel\\Providers\\FacebookPixelServiceProvider",
+  "serviceProvider"   : "accengage\\Providers\\accengageServiceProvider",
   "javaScriptFiles"   : [],
   "containers"        : [],
   "dataProviders": [
     {
-      "key"           :"FacebookPixel\\Providers\\FacebookPixelCodeProvider",
+      "key"           :"accengage\\Providers\\accengageCodeProvider",
       "name"          :"accengage",
       "description"   :"Include the accengage Pixel code snippet."
     }
