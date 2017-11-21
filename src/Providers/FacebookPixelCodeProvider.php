@@ -1,6 +1,6 @@
 <?php
 
-namespace FacebookPixel\Providers;
+namespace accengage\Providers;
 
 use Plenty\Plugin\ConfigRepository;
 use Plenty\Plugin\Templates\Twig;

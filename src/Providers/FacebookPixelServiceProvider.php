@@ -1,6 +1,6 @@
 <?php
 
-namespace FacebookPixel\Providers;
+namespace accengage\Providers;
 
 use Plenty\Plugin\ServiceProvider;
 use Plenty\Plugin\Templates\Twig;
@@ -17,7 +17,7 @@ class FacebookPixelServiceProvider extends ServiceProvider
     public function register()
     {
     }
-    
+
     /**
      * boot twig extensions and services
      * @param Twig $twig
