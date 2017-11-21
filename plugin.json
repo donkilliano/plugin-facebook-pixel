@@ -1,7 +1,7 @@
 {
-  "name"              : "FacebookPixel",
-  "namespace"         : "FacebookPixel",
-  "marketplaceName" : {"de": "Facebook-Pixel","en": "Facebook Pixel"},
+  "name"              : "accengage",
+  "namespace"         : "accengage",
+  "marketplaceName" : {"de": "accengage","en": "accengage"},
   "type"              : "template",
   "version"           : "1.0.0",
   "license"           : "AGPL-3.0",
